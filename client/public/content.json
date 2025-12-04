@@ -1,0 +1,434 @@
+{
+  "site": {
+    "name": "Zona de Riego",
+    "tagline_es": "Paisajismo - Irrigación",
+    "tagline_en": "Landscape - Irrigation",
+    "logo": "/logo.png",
+    "contact": {
+      "email": "info@zonaderiego.mx",
+      "phone": "+52 (999) 740-5036",
+      "location_es": "Mérida, Yucatán",
+      "location_en": "Yucatan Peninsula, Mexico"
+    },
+    "whatsapp": {
+      "number": "+52 999 740 5036",
+      "tooltip_es": "Chatea con nosotros",
+      "tooltip_en": "Chat with us",
+      "default_message_es": "Hola, me gustaría obtener más información sobre sus servicios.",
+      "default_message_en": "Hello, I would like to get more information about your services."
+    }
+  },
+  "home": {
+    "hero": {
+      "title_es": "Soluciones Ambientales Integrales",
+      "title_en": "Integrated Environmental Solutions",
+      "subtitle_es": "Desde cumplimiento regulatorio hasta diseño creativo, proveemos servicios integrados que restauran la salud ecológica mientras crean paisajes hermosos y funcionales.",
+      "subtitle_en": "From regulatory compliance to creative design, we provide integrated services that restore ecological health while creating beautiful, functional landscapes.",
+      "cta_primary_es": "Ver Servicios",
+      "cta_primary_en": "View Services",
+      "cta_secondary_es": "Agenda una Consulta",
+      "cta_secondary_en": "Schedule Consultation"
+    },
+    "services_section": {
+      "title_es": "Nuestros Servicios",
+      "title_en": "Our Services",
+      "subtitle_es": "Soluciones especializadas para cada fase de tu proyecto",
+      "subtitle_en": "Specialized solutions for every phase of your project"
+    },
+    "cta_section": {
+      "title_es": "¿Listo para Comenzar tu Proyecto?",
+      "title_en": "Ready to Start Your Project?",
+      "subtitle_es": "Hablemos sobre cómo podemos dar vida a tu visión.",
+      "subtitle_en": "Let's talk about how we can bring your vision to life.",
+      "button_es": "Agenda una Consulta",
+      "button_en": "Schedule Consultation"
+    }
+  },
+  "services": {
+    "hero": {
+      "title_es": "Nuestros Servicios",
+      "title_en": "Our Services",
+      "subtitle_es": "Soluciones integrales para cada fase de tu proyecto ambiental y de paisaje",
+      "subtitle_en": "Integrated solutions for every phase of your environmental and landscape project"
+    },
+    "reforestation": {
+      "name_es": "Reforestación",
+      "name_en": "Reforestation",
+      "title_es": "Reforestación y Rescate de Flora",
+      "title_en": "Reforestation & Flora Rescue",
+      "description_es": "Servicios especializados de rescate, propagación y reintegración de flora para cumplir con el mandato 4:1 de remplazo de árboles de Yucatán y restaurar el patrimonio natural de la región.",
+      "description_en": "Specialized flora rescue, propagation, and reintegration services to comply with Yucatan's 4:1 tree replacement mandate and restore the region's natural heritage.",
+      "services_included_es": [
+        "Evaluaciones de impacto ambiental",
+        "Rescate y reubicación de flora nativa",
+        "Propagación en vivero",
+        "Reintegración al ecosistema"
+      ],
+      "services_included_en": [
+        "Environmental impact assessments",
+        "Native flora rescue and relocation",
+        "Nursery propagation",
+        "Ecosystem reintegration"
+      ],
+      "ideal_for_es": [
+        "Desarrolladores inmobiliarios",
+        "Proyectos de 3-5 años",
+        "Cumplimiento regulatorio",
+        "Restauración ecológica"
+      ],
+      "ideal_for_en": [
+        "Real estate developers",
+        "3-5 year projects",
+        "Regulatory compliance",
+        "Ecological restoration"
+      ]
+    },
+    "landscape": {
+      "name_es": "Diseño de Paisaje",
+      "name_en": "Landscape Design",
+      "title_es": "Diseño de Paisaje",
+      "title_en": "Landscape Design",
+      "description_es": "Arquitectura de paisaje profesional para desarrollos residenciales, eventos especiales y espacios comerciales, utilizando especies nativas y principios de diseño regenerativo.",
+      "description_en": "Professional landscape architecture for residential developments, special events, and commercial spaces, using native species and regenerative design principles.",
+      "services_included_es": [
+        "Consultoría de diseño",
+        "Producción de Plantas y Árboles ornamentales",
+        "Selección de plantas nativas",
+        "Instalación y mantenimiento",
+        "Jardines pop-up para eventos"
+      ],
+      "services_included_en": [
+        "Design consultation",
+        "Trees and ornamental plants production",
+        "Native plant selection",
+        "Installation and maintenance",
+        "Pop-up gardens for events"
+      ],
+      "ideal_for_es": [
+        "Propietarios de viviendas",
+        "Bodas y eventos especiales",
+        "Espacios comerciales",
+        "Hoteles y resorts"
+      ],
+      "ideal_for_en": [
+        "Homeowners",
+        "Weddings and special events",
+        "Commercial spaces",
+        "Hotels and resorts"
+      ]
+    },
+    "irrigation": {
+      "name_es": "Irrigación",
+      "name_en": "Irrigation",
+      "title_es": "Servicios de Irrigación",
+      "title_en": "Irrigation Services",
+      "description_es": "Sistemas inteligentes de gestión de agua con tecnología de riego por goteo, controladores inteligentes y soluciones de cosecha de agua de lluvia para máxima eficiencia.",
+      "description_en": "Intelligent water management systems with drip irrigation technology, smart controllers, and rainwater harvesting solutions for maximum efficiency.",
+      "services_included_es": [
+        "Diseño de sistemas de riego",
+        "Instalación profesional",
+        "Mantenimiento y reparaciones"
+      ],
+      "services_included_en": [
+        "Irrigation system design",
+        "Professional installation",
+        "Maintenance and repairs"
+      ],
+      "ideal_for_es": [
+        "Grandes desarrollos",
+        "Campos de golf",
+        "Jardines residenciales",
+        "Proyectos agrícolas"
+      ],
+      "ideal_for_en": [
+        "Large developments",
+        "Golf courses",
+        "Residential gardens",
+        "Agricultural projects"
+      ]
+    },
+    "cta": {
+      "title_es": "¿Listo para Comenzar?",
+      "title_en": "Ready to Get Started?",
+      "subtitle_es": "Contáctanos hoy para discutir tu proyecto y recibir una cotización personalizada.",
+      "subtitle_en": "Contact us today to discuss your project and receive a personalized quote.",
+      "button_es": "Contactar Ahora",
+      "button_en": "Contact Now"
+    },
+    "quote_button_es": "Solicitar Cotización",
+    "quote_button_en": "Request Quote"
+  },
+  "contact": {
+    "hero": {
+      "title_es": "Contáctanos",
+      "title_en": "Contact Us",
+      "subtitle_es": "Estamos aquí para ayudarte con tu proyecto. Comparte tus ideas y te responderemos pronto.",
+      "subtitle_en": "We're here to help with your project. Share your ideas and we'll get back to you soon."
+    },
+    "form": {
+      "title_es": "Envíanos un Mensaje",
+      "title_en": "Send Us a Message",
+      "subtitle_es": "Completa el formulario y nos pondremos en contacto contigo.",
+      "subtitle_en": "Fill out the form and we'll get in touch with you.",
+      "name_label_es": "Nombre Completo",
+      "name_label_en": "Full Name",
+      "name_placeholder_es": "Tu nombre",
+      "name_placeholder_en": "Your name",
+      "email_label_es": "Correo Electrónico",
+      "email_label_en": "Email Address",
+      "email_placeholder_es": "tu@email.com",
+      "email_placeholder_en": "you@email.com",
+      "phone_label_es": "Teléfono",
+      "phone_label_en": "Phone Number",
+      "phone_placeholder_es": "+52 999 XXX XXXX",
+      "phone_placeholder_en": "+52 999 XXX XXXX",
+      "inquiry_label_es": "Tipo de Consulta",
+      "inquiry_label_en": "Inquiry Type",
+      "inquiry_placeholder_es": "Selecciona un tipo",
+      "inquiry_placeholder_en": "Select a type",
+      "inquiry_options_es": [
+        "Reforestación y Rescate de Flora",
+        "Diseño de Paisaje",
+        "Servicios de Irrigación",
+        "Consulta General"
+      ],
+      "inquiry_options_en": [
+        "Reforestation & Flora Rescue",
+        "Landscape Design",
+        "Irrigation Services",
+        "General Inquiry"
+      ],
+      "message_label_es": "Mensaje",
+      "message_label_en": "Message",
+      "message_placeholder_es": "Cuéntanos sobre tu proyecto...",
+      "message_placeholder_en": "Tell us about your project...",
+      "submit_button_es": "Enviar Mensaje",
+      "submit_button_en": "Send Message",
+      "success_message_es": "¡Mensaje enviado! Nos pondremos en contacto pronto.",
+      "success_message_en": "Message sent! We'll be in touch soon."
+    },
+    "info": {
+      "title_es": "Información de Contacto",
+      "title_en": "Contact Information",
+      "location_label_es": "Ubicación",
+      "location_label_en": "Location",
+      "email_label_es": "Correo Electrónico",
+      "email_label_en": "Email",
+      "phone_label_es": "Teléfono",
+      "phone_label_en": "Phone",
+      "hours_label_es": "Horario",
+      "hours_label_en": "Business Hours",
+      "hours_weekday_es": "Lunes - Viernes: 8:00 AM - 6:00 PM",
+      "hours_weekday_en": "Monday - Friday: 8:00 AM - 6:00 PM",
+      "hours_saturday_es": "Sábado: 9:00 AM - 2:00 PM",
+      "hours_saturday_en": "Saturday: 9:00 AM - 2:00 PM"
+    },
+    "why_choose": {
+      "title_es": "¿Por Qué Elegirnos?",
+      "title_en": "Why Choose Us?",
+      "reasons_es": [
+        "Experiencia local en la Península de Yucatán",
+        "Especialistas en flora nativa y reforestación",
+        "Cumplimiento regulatorio garantizado"
+      ],
+      "reasons_en": [
+        "Local expertise in the Yucatan Peninsula",
+        "Native flora and reforestation specialists",
+        "Guaranteed regulatory compliance"
+      ]
+    }
+  },
+  "projects": {
+    "hero": {
+      "title_es": "Nuestros Proyectos",
+      "title_en": "Our Projects",
+      "subtitle_es": "Descubre cómo transformamos espacios mientras restauramos ecosistemas",
+      "subtitle_en": "Discover how we transform spaces while restoring ecosystems"
+    },
+    "filter": {
+      "all_es": "Todos",
+      "all_en": "All",
+      "reforestation_es": "Reforestación",
+      "reforestation_en": "Reforestation",
+      "landscape_es": "Paisajismo",
+      "landscape_en": "Landscape",
+      "irrigation_es": "Irrigación",
+      "irrigation_en": "Irrigation"
+    },
+    "cta": {
+      "title_es": "¿Listo para tu Proyecto?",
+      "title_en": "Ready for Your Project?",
+      "subtitle_es": "Trabajemos juntos para crear algo extraordinario",
+      "subtitle_en": "Let's work together to create something extraordinary",
+      "button_es": "Iniciar Proyecto",
+      "button_en": "Start Project"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title_es": "Rescate de Flora Nativa - Desarrollo Residencial Tulum",
+        "title_en": "Native Flora Rescue - Tulum Residential Development",
+        "category": "reforestation",
+        "location_es": "Tulum, Quintana Roo",
+        "location_en": "Tulum, Quintana Roo",
+        "year": "2024",
+        "description_es": "Rescate y reubicación de más de 500 especies nativas durante el desarrollo de un complejo residencial de 50 hectáreas. Cumplimiento exitoso del mandato 4:1 con propagación en vivero y reintegración al ecosistema.",
+        "description_en": "Rescue and relocation of over 500 native species during the development of a 50-hectare residential complex. Successful compliance with the 4:1 mandate through nursery propagation and ecosystem reintegration.",
+        "image_before": "/projects/tulum-before.jpg",
+        "image_after": "/projects/tulum-after.jpg",
+        "stats_es": [
+          "500+ árboles rescatados",
+          "50 hectáreas restauradas",
+          "3 años de proyecto",
+          "95% tasa de supervivencia"
+        ],
+        "stats_en": [
+          "500+ trees rescued",
+          "50 hectares restored",
+          "3-year project",
+          "95% survival rate"
+        ]
+      },
+      {
+        "id": 2,
+        "title_es": "Jardín Tropical - Hotel Boutique Mérida",
+        "title_en": "Tropical Garden - Mérida Boutique Hotel",
+        "category": "landscape",
+        "location_es": "Mérida, Yucatán",
+        "location_en": "Mérida, Yucatán",
+        "year": "2023",
+        "description_es": "Diseño e instalación de jardín tropical con especies nativas para hotel boutique de lujo. Integración de elementos tradicionales mayas con diseño contemporáneo, creando un oasis urbano sostenible.",
+        "description_en": "Design and installation of tropical garden with native species for luxury boutique hotel. Integration of traditional Mayan elements with contemporary design, creating a sustainable urban oasis.",
+        "image_before": "/projects/merida-before.jpg",
+        "image_after": "/projects/merida-after.jpg",
+        "stats_es": [
+          "200+ plantas nativas",
+          "2,000 m² de jardín",
+          "Diseño bioclimático",
+          "Certificación sustentable"
+        ],
+        "stats_en": [
+          "200+ native plants",
+          "2,000 m² garden",
+          "Bioclimatic design",
+          "Sustainability certified"
+        ]
+      },
+      {
+        "id": 3,
+        "title_es": "Sistema de Riego Inteligente - Campo de Golf Playa del Carmen",
+        "title_en": "Smart Irrigation System - Playa del Carmen Golf Course",
+        "category": "irrigation",
+        "location_es": "Playa del Carmen, Quintana Roo",
+        "location_en": "Playa del Carmen, Quintana Roo",
+        "year": "2024",
+        "description_es": "Instalación de sistema de riego por goteo inteligente con sensores de humedad y controladores automatizados. Reducción del 60% en consumo de agua mientras se mantiene la calidad del césped.",
+        "description_en": "Installation of smart drip irrigation system with moisture sensors and automated controllers. 60% reduction in water consumption while maintaining turf quality.",
+        "image_before": "/projects/golf-before.jpg",
+        "image_after": "/projects/golf-after.jpg",
+        "stats_es": [
+          "60% ahorro de agua",
+          "18 hoyos cubiertos",
+          "Sistema automatizado",
+          "Monitoreo en tiempo real"
+        ],
+        "stats_en": [
+          "60% water savings",
+          "18 holes covered",
+          "Automated system",
+          "Real-time monitoring"
+        ]
+      }
+    ]
+  },
+  "shop": {
+    "hero": {
+      "title_es": "Tienda",
+      "title_en": "Shop",
+      "subtitle_es": "Plantas, semillas, herramientas y equipos de irrigación de calidad profesional",
+      "subtitle_en": "Professional-quality plants, seeds, tools, and irrigation equipment"
+    },
+    "categories": {
+      "all_es": "Todos",
+      "all_en": "All",
+      "plants_es": "Plantas",
+      "plants_en": "Plants",
+      "seeds_es": "Semillas",
+      "seeds_en": "Seeds",
+      "tools_es": "Herramientas",
+      "tools_en": "Tools",
+      "irrigation_es": "Irrigación",
+      "irrigation_en": "Irrigation"
+    },
+    "cart": {
+      "title_es": "Carrito de Compras",
+      "title_en": "Shopping Cart",
+      "empty_es": "Tu carrito está vacío",
+      "empty_en": "Your cart is empty",
+      "subtotal_es": "Subtotal",
+      "subtotal_en": "Subtotal",
+      "checkout_es": "Proceder al Pago",
+      "checkout_en": "Proceed to Checkout",
+      "continue_shopping_es": "Continuar Comprando",
+      "continue_shopping_en": "Continue Shopping"
+    },
+    "product": {
+      "add_to_cart_es": "Agregar al Carrito",
+      "add_to_cart_en": "Add to Cart",
+      "out_of_stock_es": "Agotado",
+      "out_of_stock_en": "Out of Stock",
+      "in_stock_es": "En Stock",
+      "in_stock_en": "In Stock"
+    },
+    "checkout": {
+      "title_es": "Finalizar Compra",
+      "title_en": "Checkout",
+      "customer_info_es": "Información del Cliente",
+      "customer_info_en": "Customer Information",
+      "name_es": "Nombre Completo",
+      "name_en": "Full Name",
+      "email_es": "Correo Electrónico",
+      "email_en": "Email",
+      "phone_es": "Teléfono",
+      "phone_en": "Phone",
+      "address_es": "Dirección de Envío",
+      "address_en": "Shipping Address",
+      "order_summary_es": "Resumen del Pedido",
+      "order_summary_en": "Order Summary",
+      "total_es": "Total",
+      "total_en": "Total",
+      "place_order_es": "Realizar Pedido",
+      "place_order_en": "Place Order",
+      "success_title_es": "¡Pedido Confirmado!",
+      "success_title_en": "Order Confirmed!",
+      "success_message_es": "Gracias por tu compra. Te contactaremos pronto para coordinar la entrega.",
+      "success_message_en": "Thank you for your purchase. We will contact you soon to coordinate delivery."
+    }
+  },
+  "navigation": {
+    "home_es": "Inicio",
+    "home_en": "Home",
+    "services_es": "Servicios",
+    "services_en": "Services",
+    "projects_es": "Proyectos",
+    "projects_en": "Projects",
+    "contact_es": "Contacto",
+    "contact_en": "Contact",
+    "shop_es": "Tienda",
+    "shop_en": "Shop",
+    "contact_button_es": "Contáctanos",
+    "contact_button_en": "Contact Us"
+  },
+  "footer": {
+    "tagline_es": "Restaurando el patrimonio natural del Yucatán.",
+    "tagline_en": "Restoring Yucatan's natural heritage.",
+    "services_title_es": "Servicios",
+    "services_title_en": "Services",
+    "company_title_es": "Compañía",
+    "company_title_en": "Company",
+    "contact_title_es": "Contacto",
+    "contact_title_en": "Contact",
+    "copyright_es": "Todos los derechos reservados.",
+    "copyright_en": "All rights reserved."
+  }
+}
